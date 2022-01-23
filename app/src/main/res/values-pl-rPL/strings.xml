@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Odtwarzacz muzyki</string>
+    <string name="now_playing">Teraz Odtwarzanie</string>
+    <string name="this_is_song_name">This is song Name</string>
+    <string name="artist_performing">Artist performing</string>
+    <string name="play">Odtwarzanie</string>
+    <string name="next">Nastepny</string>
+    <string name="previous">Poprzedni</string>
+</resources>
